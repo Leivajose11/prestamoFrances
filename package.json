@@ -1,0 +1,26 @@
+{
+  "name": "prestamofrances",
+  "version": "1.0.0",
+  "description": "Calcula un prestamo por el metodo frances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leivajose11/prestamoFrances.git"
+  },
+  "keywords": [
+    "prestamo",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Leiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leivajose11/prestamoFrances/issues"
+  },
+  "homepage": "https://github.com/Leivajose11/prestamoFrances#readme"
+}
