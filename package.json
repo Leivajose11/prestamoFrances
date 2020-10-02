@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Leivajose11/prestamoFrances/issues"
   },
-  "homepage": "https://github.com/Leivajose11/prestamoFrances#readme"
+  "homepage": "https://github.com/Leivajose11/prestamoFrances#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
